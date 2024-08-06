@@ -11,7 +11,7 @@ Welcome to my portfolio website built with Next.js! This website showcases my sk
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Onesmus123/Next-JS-CheckPoint.git
 
 2. Install dependencies:
     ```bash
