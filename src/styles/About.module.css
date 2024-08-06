@@ -1,0 +1,36 @@
+/* Styles for the About page container */
+.container {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for the title on the About page */
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  /* Styles for paragraphs on the About page */
+  .paragraph {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: #666;
+  }
+  
+  /* Styles for links on the About page */
+  .link {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  /* Styles for links when hovered over */
+  .link:hover {
+    text-decoration: underline;
+  }
+  

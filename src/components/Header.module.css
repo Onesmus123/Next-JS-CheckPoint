@@ -1,0 +1,47 @@
+/* Styling for the header element */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  /* Container for aligning header content */
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  /* Styling for the title */
+  .title {
+    font-size: 1.5rem;
+  }
+  
+  /* Styling for the navigation section */
+  .nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Styling for navigation links */
+  .navLink {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  /* Styling for navigation link hover effect */
+  .navLink:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,38 @@
+/* Styles for the Contact page container */
+.container {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Styles for the title on the Contact page */
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
+  /* Styles for the contact information section */
+  .contactInfo {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  /* Styles for each contact item */
+  .item {
+    margin-bottom: 1rem;
+  }
+  
+  /* Styles for links on the Contact page */
+  .link {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  /* Styles for links when hovered over */
+  .link:hover {
+    text-decoration: underline;
+  }
+  
