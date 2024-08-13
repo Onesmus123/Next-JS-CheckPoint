@@ -24,10 +24,10 @@ export default function Home() {
           I am a passionate Software Developer.
         </p>
         {/* Links to download CV and view GitHub profile */}
-        <Link href="/cv.pdf" className={styles.button} download>
+        <Link href="/Mutyauvyu - RESUME.pdf" className={styles.button} download>
           View CV
         </Link>
-        <Link href="https://github.com/your-github-username" className={styles.githubButton} target="_blank" rel="noopener noreferrer">
+        <Link href="https://github.com/Onesmus123" className={styles.githubButton} target="_blank" rel="noopener noreferrer">
           GitHub
         </Link>
       </header>
